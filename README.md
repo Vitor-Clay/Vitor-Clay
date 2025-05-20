@@ -5,8 +5,7 @@
 Olá! Me chamo **Vitor Hugo Clay de Oliveira Silva**, tenho 29 anos e sou natural de **São Caetano do Sul (SP)**. Sou graduado em **Banco de Dados (FIT - Impacta Tecnologia)** e possuo dois MBAs pela **PUC**: um em **Engenharia e Ciência de Dados** e outro em **Business Intelligence e Analytics**. 
 
 
-Tenho experiência com Databricks, Delta Lake, PySpark, SQL, e Azure Data Factory para orquestração, tratamento e integração de grandes volumes de dados. Trabalho com processos ETL/ELT, automação de rotinas e integração de diversas fontes de dados. Participe ativamente do desenho e implementação de arquiteturas de dados modernas, com foco em desempenho, escalabilidade e governança.
-
+Tenho experiência com Databricks, Delta Lake, PySpark, SQL e Azure Data Factory para orquestração, tratamento e integração de grandes volumes de dados. Atuo em processos ETL/ELT, automação de rotinas e integração de diversas fontes de dados. Participe ativamente do desenho e implementação de arquiteturas de dados modernas, com foco em desempenho, escalabilidade e governança. Além disso, possuo sólida experiência na construção de Data Warehouses e Data Marts, garantindo estruturas otimizadas para análise e suporte à tomada de decisão.
  🌐 Contatos:
 
 <p align="left"> 
@@ -24,7 +23,7 @@ Tenho experiência com Databricks, Delta Lake, PySpark, SQL, e Azure Data Factor
 
 
 ---
-#### 🌍 Idiomas
+#### 🌍 Idiomas:
 
 <p style="font-size: 14px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Português" width="18" /> Português (Nativo) &nbsp;|&nbsp;
