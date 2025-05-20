@@ -4,7 +4,8 @@
 
 Olá! Me chamo **Vitor Hugo Clay de Oliveira Silva**, tenho 29 anos e sou natural de **São Caetano do Sul (SP)**. Sou graduado em **Banco de Dados (FIT - Impacta Tecnologia)** e possuo dois MBAs pela **PUC**: um em **Engenharia e Ciência de Dados** e outro em **Business Intelligence e Analytics**. 
 
-Atuo no mercado de dados há mais de 5 anos, com experiência em projetos de engenharia de dados, automações, integrações e visualização de dados.
+
+Tenho experiência com Databricks, Delta Lake, PySpark, SQL, e Azure Data Factory para orquestração, tratamento e integração de grandes volumes de dados. Trabalho com processos ETL/ELT, automação de rotinas e integração de diversas fontes de dados. Participe ativamente do desenho e implementação de arquiteturas de dados modernas, com foco em desempenho, escalabilidade e governança.
 
  🌐 Contatos:
 
@@ -34,8 +35,8 @@ Atuo no mercado de dados há mais de 5 anos, com experiência em projetos de eng
 
 ### 🛠️ Linguagens e Tecnologias:
 
-<p align="left">
 
+<p align="left">
   <img src="https://vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="30" title="Databricks"/>
   <img src="https://worldvectorlogo.com/logos/amazon-web-services.svg" alt="AWS" width="30" title="AWS"/>
   <img src="https://worldvectorlogo.com/logos/aws-redshift-logo.svg" alt="Redshift" width="30" title="Redshift"/>
@@ -47,10 +48,18 @@ Atuo no mercado de dados há mais de 5 anos, com experiência em projetos de eng
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/1024px-Oracle_logo.svg.png" alt="Oracle" width="30" title="Oracle Database"/>
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="30" title="Jira"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969025.png" alt="Scrum" width="30" title="Scrum"/>
-
 </p>
 
 ---
+
+## 💡 Tecnologias em Aprendizagem:
+
+- **Apache Airflow**
+- **DBT (Data Build Tool)** 
+- **Docker** 
+
+
+
 
 ### 💡 Soft Skills:
 
